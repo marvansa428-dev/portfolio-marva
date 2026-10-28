@@ -1,6 +1,10 @@
 .footer{
     min-height: 50px;
     display: flex;
+    border-top: 1px solid purple;
+    margin-top: 20px;
+    text-align: center;
+    justify-content: space-between;
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
